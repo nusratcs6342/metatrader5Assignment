@@ -1,7 +1,4 @@
 # metatrader5Assignment
-Great! Here's the revised README content based on your description:
-
----
 
 # LSTM Model with MetaTrader 5 Integration
 
